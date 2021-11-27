@@ -1,17 +1,5 @@
 [
   {
-    "Id": "55f5e633-845f-4022-86aa-476af175a9ab",
-    "Title": "Blank Playlist",
-    "Image": "images/playlists/Customize.png",
-    "LevelId": "",
-    "AudienceId": "",
-    "TechnologyId": "",
-    "SubjectId": "",
-    "Source": "ABCU",
-    "CatId": "",
-    "Description": "Blank playlist placeholder. Do not use",
-    "StatusTagId": "b139cdb6-7ca2-4913-a118-0d8d2b20333c",
-    "StatusNote": "",
-    "Assets": []
+
   }
 ]
