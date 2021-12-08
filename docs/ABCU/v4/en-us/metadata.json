@@ -75,15 +75,6 @@
       "SubCategories": []
     },
     {
-      "Id": "0017c7b4-21b1-4341-9308-30620e81a857",
-      "Name": "Wealth and Insurance",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "ABCU",
-      "SubCategories": []
-    },
-    {
       "Id": "6eb7f224-ee61-4cb5-b8c2-1b05310f5047",
       "Name": "Regulatory Compliance and Risk Management",
       "Image": "",
@@ -113,24 +104,6 @@
     {
       "Id": "fb9f0818-e364-4399-864e-d981018751c5",
       "Name": "Human Resources",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "ABCU",
-      "SubCategories": []
-    },
-    {
-      "Id": "fa11256e-396e-427f-8b00-a2fa918b9245",
-      "Name": "My Board",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "ABCU",
-      "SubCategories": []
-    },
-    {
-      "Id": "f83601f2-2bf8-4e3a-96c6-c47cc786f713",
-      "Name": "Committees",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
