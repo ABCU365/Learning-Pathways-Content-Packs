@@ -152,8 +152,14 @@
   "Sources": [
     "ABCU",
     "DNA",
-    "Telus",
-    "PaymentStream"
+    "Verafin",
+    "Telus VOIP",
+    "CUPS Wire System",
+    "CUBO",
+    "CAFT",
+    "cView",
+    "Doxim",
+    "Other"
   ],
   "Levels": [
     {
