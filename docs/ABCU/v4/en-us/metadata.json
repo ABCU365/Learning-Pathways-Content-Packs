@@ -1,47 +1,47 @@
 {
   "Technologies": [
     {
-      "Id": "e5748185-c83d-4e99-9d11-d7cd30291b87",
+      "Id": "a951af8b-7021-4848-b101-02445f364463",
       "Name": "DNA",
       "Subjects": []
     },
     {
-      "Id": "24fc2709-c28d-4f0b-a829-b3e88e3cba43",
+      "Id": "07ee08e8-68ef-4251-9927-227b470fa176",
       "Name": "Verafin",
       "Subjects": []
     },
     {
-      "Id": "0fbb960d-568d-4e30-aa07-098fd19c6265",
+      "Id": "dbdee911-dd10-4383-b84b-6d9b8d487cd7",
       "Name": "Telus VOIP",
       "Subjects": []
     },
     {
-      "Id": "ebc4d4ec-7624-430e-8712-fb8fd07688ea",
+      "Id": "6e24e7ad-ff15-4492-b63c-cfca11e36f87",
       "Name": "CUPS Wire System",
       "Subjects": []
     },
     {
-      "Id": "e531d40f-fef5-4ffe-a20b-782681650046",
+      "Id": "e9964963-aed8-493f-9eb2-47812132d9e8",
       "Name": "CUBO",
       "Subjects": []
     },
     {
-      "Id": "819e9cd7-08d6-4dca-afbb-5317949c9500",
+      "Id": "ea435e9d-69aa-4365-848e-dfb565d09434",
       "Name": "CAFT",
       "Subjects": []
     },
     {
-      "Id": "47968143-e4cc-457d-ac65-0353a4f4118b",
+      "Id": "cd8cc73a-d286-418c-9596-87de3a6503c0",
       "Name": "cView",
       "Subjects": []
     },
     {
-      "Id": "c86323b7-6be9-43b3-8955-f9f5d744a42d",
+      "Id": "de5e726b-b4ab-4284-9542-8e0a2f2343fe",
       "Name": "Doxim",
       "Subjects": []
     },
     {
-      "Id": "210a51ce-d8f9-4588-9f27-34d955c426e0",
+      "Id": "fe69b0fb-5bd7-4c37-9a81-cfff249138f8",
       "Name": "Other",
       "Subjects": []
     }
@@ -113,39 +113,39 @@
   ],
   "Audiences": [
     {
-      "Id": "3b8f0120-1b35-49ac-9f51-1c30551c0ea8",
+      "Id": "ff65b622-458b-4253-be0b-36f322444e1a",
       "Name": "Executives"
     },
     {
-      "Id": "e3705963-f9f2-429a-a9d9-14acf26eca6c",
+      "Id": "738bc8aa-e65a-408c-8b00-4b83db784330",
       "Name": "Board of Directors"
     },
     {
-      "Id": "8841622e-32fd-48ad-9fd1-5f2758ef543e",
+      "Id": "60698e2d-c6e4-48fd-8b06-3614de4ba826",
       "Name": "Corporate Office"
     },
     {
-      "Id": "4aa421d1-dc55-4b87-aa63-f1845ae49d98",
+      "Id": "e7c75ce1-8082-4301-8fc3-bf50d38b75ab",
       "Name": "Management"
     },
     {
-      "Id": "27513aaf-fee5-4f27-b924-e31d865e4092",
+      "Id": "cdcc4006-25f1-46c6-a030-f483f91a8664",
       "Name": "Support Team"
     },
     {
-      "Id": "4e425c61-28fa-4606-afe8-5df5974ec243",
+      "Id": "2039aecf-b003-44e2-aac8-d1e35b6895f6",
       "Name": "Member Facing"
     },
     {
-      "Id": "e43ac038-f77b-4c08-87d1-a623e2b3323e",
+      "Id": "dce00114-ed89-4b5c-ade6-6ba171d58671",
       "Name": "New Employees"
     },
     {
-      "Id": "823ca3d1-4cea-48af-8112-d8341e1514f5",
+      "Id": "03ad7669-1b30-4e27-9236-6486a403eb71",
       "Name": "Human Resources"
     },
     {
-      "Id": "283b65f1-fcde-4a0a-8fa4-947a3d2bd40b",
+      "Id": "d0b10ff0-4f6b-4106-b556-03486a12656f",
       "Name": "All"
     }
   ],
