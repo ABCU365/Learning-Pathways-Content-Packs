@@ -207,8 +207,5 @@
     "RepoURL": "https://github.com/pnp/custom-learning-office-365#updating-the-solution"
   },
   "ContentPacks": [],
-  "AssetOrigins": [
-    "https://support.office.com",
-    "https://docs.microsoft.com"
-  ]
+  "AssetOrigins": []
 }
