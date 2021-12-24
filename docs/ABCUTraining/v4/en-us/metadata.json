@@ -1,0 +1,214 @@
+{
+  "Technologies": [
+    {
+      "Id": "a951af8b-7021-4848-b101-02445f364463",
+      "Name": "DNA",
+      "Subjects": []
+    },
+    {
+      "Id": "07ee08e8-68ef-4251-9927-227b470fa176",
+      "Name": "Verafin",
+      "Subjects": []
+    },
+    {
+      "Id": "dbdee911-dd10-4383-b84b-6d9b8d487cd7",
+      "Name": "Telus VOIP",
+      "Subjects": []
+    },
+    {
+      "Id": "6e24e7ad-ff15-4492-b63c-cfca11e36f87",
+      "Name": "CUPS Wire System",
+      "Subjects": []
+    },
+    {
+      "Id": "e9964963-aed8-493f-9eb2-47812132d9e8",
+      "Name": "CUBO",
+      "Subjects": []
+    },
+    {
+      "Id": "ea435e9d-69aa-4365-848e-dfb565d09434",
+      "Name": "CAFT",
+      "Subjects": []
+    },
+    {
+      "Id": "cd8cc73a-d286-418c-9596-87de3a6503c0",
+      "Name": "cView",
+      "Subjects": []
+    },
+    {
+      "Id": "de5e726b-b4ab-4284-9542-8e0a2f2343fe",
+      "Name": "Doxim",
+      "Subjects": []
+    },
+    {
+      "Id": "fe69b0fb-5bd7-4c37-9a81-cfff249138f8",
+      "Name": "Other",
+      "Subjects": []
+    }
+  ],
+  "Categories": [
+    {
+      "Id": "b6f4a0b6-5aa9-4448-8f8b-542e9d700a14",
+      "Name": "Role Based Training",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "ABCU",
+      "SubCategories": []
+    },
+    {
+      "Id": "c9218505-3d26-468c-bd64-3e57f3b29c8a",
+      "Name": "Member Services",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "ABCU",
+      "SubCategories": []
+    },
+    {
+      "Id": "1ae10f9a-f47a-47a4-91e7-c637b83bb594",
+      "Name": "Retail and Commercial Credit",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "ABCU",
+      "SubCategories": []
+    },
+    {
+      "Id": "6eb7f224-ee61-4cb5-b8c2-1b05310f5047",
+      "Name": "Regulatory Compliance and Risk Management",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "ABCU",
+      "SubCategories": []
+    },
+    {
+      "Id": "0f70563d-d062-4944-a755-9842945115e4",
+      "Name": "IT & External Systems",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "ABCU",
+      "SubCategories": []
+    },
+    {
+      "Id": "7a2c012d-b8e1-44a7-94ff-e3f1014d9b52",
+      "Name": "Finance",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "ABCU",
+      "SubCategories": []
+    },
+    {
+      "Id": "fb9f0818-e364-4399-864e-d981018751c5",
+      "Name": "Human Resources",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "ABCU",
+      "SubCategories": []
+    }
+  ],
+  "Audiences": [
+    {
+      "Id": "ff65b622-458b-4253-be0b-36f322444e1a",
+      "Name": "Executives"
+    },
+    {
+      "Id": "738bc8aa-e65a-408c-8b00-4b83db784330",
+      "Name": "Board of Directors"
+    },
+    {
+      "Id": "60698e2d-c6e4-48fd-8b06-3614de4ba826",
+      "Name": "Corporate Office"
+    },
+    {
+      "Id": "e7c75ce1-8082-4301-8fc3-bf50d38b75ab",
+      "Name": "Management"
+    },
+    {
+      "Id": "cdcc4006-25f1-46c6-a030-f483f91a8664",
+      "Name": "Support Team"
+    },
+    {
+      "Id": "2039aecf-b003-44e2-aac8-d1e35b6895f6",
+      "Name": "Member Facing"
+    },
+    {
+      "Id": "dce00114-ed89-4b5c-ade6-6ba171d58671",
+      "Name": "New Employees"
+    },
+    {
+      "Id": "03ad7669-1b30-4e27-9236-6486a403eb71",
+      "Name": "Human Resources"
+    },
+    {
+      "Id": "d0b10ff0-4f6b-4106-b556-03486a12656f",
+      "Name": "All"
+    }
+  ],
+  "Sources": [
+    "ABCU",
+    "DNA",
+    "Verafin",
+    "Telus VOIP",
+    "CUPS Wire System",
+    "CUBO",
+    "CAFT",
+    "cView",
+    "Doxim",
+    "Other"
+  ],
+  "Levels": [
+    {
+      "Id": "4bdd44af-d093-454d-941b-a46812de8870",
+      "Name": "Beginner"
+    },
+    {
+      "Id": "b6eb2e21-6614-4d38-abb1-260cdf83f449",
+      "Name": "Intermediate"
+    },
+    {
+      "Id": "bd8f9e7a-0ab7-4289-b330-129fb277f738",
+      "Name": "Advanced"
+    }
+  ],
+  "StatusTag": [
+    {
+      "Id": "b139cdb6-7ca2-4913-a118-0d8d2b20333c",
+      "Name": "New"
+    },
+    {
+      "Id": "5022e586-e10c-41f6-a17e-5bbe5f213452",
+      "Name": "Updated"
+    },
+    {
+      "Id": "1a82c2c0-5773-41e6-a450-776c18621144",
+      "Name": "Retiring"
+    },
+    {
+      "Id": "e5653e35-2e7f-47f6-9257-1b6be501f26e",
+      "Name": "Retired"
+    },
+    {
+      "Id": "51237b71-fc44-4c13-b6d2-67bb054e14e5",
+      "Name": "Beta"
+    }
+  ],
+  "Telemetry": {
+    "AppInsightKey": "e55c65a8-29a3-4898-81f8-4c3e62ac3c60"
+  },
+  "Version": {
+    "Manifest": "v3",
+    "ManifestMinWebPart": "3.0.0",
+    "CurrentWebPart": "3.0.0",
+    "RepoURL": "https://github.com/pnp/custom-learning-office-365#updating-the-solution"
+  },
+  "ContentPacks": [],
+  "AssetOrigins": [
+    "https://support.office.com",
+    "https://docs.microsoft.com"
+  ]
+}
