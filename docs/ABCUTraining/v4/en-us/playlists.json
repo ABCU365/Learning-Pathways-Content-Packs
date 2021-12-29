@@ -1,5 +1,18 @@
 [
   {
-
+    "Id": "d4236422-7be8-4227-92ad-e85738d28dd7",
+    "Title": "Anti-Money Laundering (AML)",
+    "Image": "images/playlists/Intro_SharePoint.png",
+    "LevelId": "b6eb2e21-6614-4d38-abb1-260cdf83f449",
+    "AudienceId": "d0b10ff0-4f6b-4106-b556-03486a12656f",
+    "TechnologyId": "fe69b0fb-5bd7-4c37-9a81-cfff249138f8",
+    "SubjectId": "",
+    "Source": "SOC",
+    "CatId": "6eb7f224-ee61-4cb5-b8c2-1b05310f5047",
+    "Description": "Anti-money laundering training",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+    ]
   }
 ]
